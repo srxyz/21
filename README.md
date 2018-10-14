@@ -10,3 +10,8 @@ $ git clone https://github.com/srxyz/21.git
 $ cd 21
 $ java Driver
 ```
+
+# Todo
+
+* Add ability to bet
+* Indicate who wins the round

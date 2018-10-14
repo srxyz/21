@@ -11,7 +11,7 @@ $ cd 21
 $ java Driver
 ```
 
-# Todo
+## Todo
 
 * Add ability to bet
 * Indicate who wins the round
